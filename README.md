@@ -18,7 +18,7 @@ Running the script within VS code on the csv data provided these outcomes for th
 **County with Largest Votes**
 * Dever
 
-**Candidate vote breakdown
+**Candidate vote breakdown**
 * Charles Casper Stockham: 23.0% (85,213)
 * Diana DeGette: 73.8% (272,892)
 * Raymon Anthony Doane: 3.1% (11,606)
