@@ -15,7 +15,7 @@ Running the script within VS code on the csv data provided these outcomes for th
 * Denver: 82.8% (306,055)
 * Arapahoe: 6.7% (24,801)
 
-** County with Largest Votes**
+**County with Largest Votes**
 * Dever
 
 **Candidate vote breakdown
@@ -23,7 +23,7 @@ Running the script within VS code on the csv data provided these outcomes for th
 * Diana DeGette: 73.8% (272,892)
 * Raymon Anthony Doane: 3.1% (11,606)
 
-** Candidate Winner and winner statistics
+**Candidate Winner and winner statistics**
 * Winner: Diana DeGette
 * Winning Vote Count: 272,892
 * Winning Percentage: 73.8%
