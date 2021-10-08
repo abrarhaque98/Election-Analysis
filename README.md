@@ -7,6 +7,7 @@ The purpose of this project was to develop a script which would perform an elect
 
 Running the script within VS code on the csv data provided these outcomes for the election audit analysis.
 
+![image](https://user-images.githubusercontent.com/85713568/136492817-241e3b06-b2ed-47a0-8fdf-733c14f7969c.png)
 **Total Votes cast**
 * 369,711 votes cast amongst all 3 counties for all candidates
 
